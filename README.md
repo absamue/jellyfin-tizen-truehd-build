@@ -1,6 +1,6 @@
 # Jellyfin Tizen build with TrueHD support
 
-See [this comment](https://github.com/jellyfin/jellyfin-tizen/issues/226#issuecomment-1765771658] in the jellyfin-tizen repo which states how to add TrueHD support to the jellyfin client to allow direct play of TrueHD Audio.
+See [this comment](https://github.com/jellyfin/jellyfin-tizen/issues/226#issuecomment-1765771658) in the jellyfin-tizen repo which states how to add TrueHD support to the jellyfin client to allow direct play of TrueHD Audio.
 
 The inclueded Dockerfile will build a copy of Jellyfin.wgt, which you can exec into the conatiner to deploy with sdb.
 

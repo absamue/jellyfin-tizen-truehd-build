@@ -1,4 +1,7 @@
-# Jellyfin Tizen build with TrueHD support
+# [DEPRECIATED]
+[This issue](https://github.com/jeppevinkel/jellyfin-tizen-builds/issues/32) was closed in [jellyfin-tizen-builds](https://github.com/jeppevinkel/jellyfin-tizen-builds/tree/master) to address this need.
+
+## Jellyfin Tizen build with TrueHD support
 
 See [this comment](https://github.com/jellyfin/jellyfin-tizen/issues/226#issuecomment-1765771658) in the jellyfin-tizen repo which states how to add TrueHD support to the jellyfin client to allow direct play of TrueHD Audio.
 
